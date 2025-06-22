@@ -62,3 +62,14 @@ dependencies:
   get: ^4.6.5
   shared_preferences: ^2.2.2
 ```
+---
+
+## 👨‍💻 Developer
+
+**Made with ❤️ by Aditya Vishwakarma**
+
+---
+
+## 🔗 License
+
+This project is open-source and available for learning and improvement.
